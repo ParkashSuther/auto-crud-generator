@@ -1,1 +1,1 @@
-# auto-crud-generator
+# Auto CRUD Generator
