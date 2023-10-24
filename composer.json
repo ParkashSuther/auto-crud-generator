@@ -1,7 +1,7 @@
 {
     "name": "parkash_suther/auto-crud-generator",
     "description": "Auto CRUD generator helps to save your time and implement complete CRUD with commands.",
-    "license": "Parkash-Suther",
+    "license": "MIT",
     "authors": [
         {
             "name": "Parkash Suther",
