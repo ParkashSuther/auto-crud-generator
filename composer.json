@@ -13,7 +13,9 @@
             "parkash_suther\\": "src/"
         }
     },
-    "require": {},
+    "require": {
+        "php": ">=8.0.0"
+    },
     "minimum-stability": "dev",
     "prefer-stable": true
 }
